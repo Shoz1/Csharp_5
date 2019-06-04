@@ -1,0 +1,7 @@
+D:\Учеба\Lab5Csharp\Lab5Csharp\bin\Debug\Lab5Csharp.exe.config
+D:\Учеба\Lab5Csharp\Lab5Csharp\bin\Debug\Lab5Csharp.exe
+D:\Учеба\Lab5Csharp\Lab5Csharp\bin\Debug\Lab5Csharp.pdb
+D:\Учеба\Lab5Csharp\Lab5Csharp\obj\Debug\Lab5Csharp.csprojAssemblyReference.cache
+D:\Учеба\Lab5Csharp\Lab5Csharp\obj\Debug\Lab5Csharp.csproj.CoreCompileInputs.cache
+D:\Учеба\Lab5Csharp\Lab5Csharp\obj\Debug\Lab5Csharp.exe
+D:\Учеба\Lab5Csharp\Lab5Csharp\obj\Debug\Lab5Csharp.pdb
